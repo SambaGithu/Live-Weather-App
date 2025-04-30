@@ -1,0 +1,39 @@
+# 🌦️ Live Weather App
+
+A sleek and responsive web app to check real-time weather conditions using city names. Built with HTML, CSS, and JavaScript, powered by a public weather API.
+
+🔗 **Live Demo**: [https://inspiring-taffy-ac5869.netlify.app](https://inspiring-taffy-ac5869.netlify.app)
+
+---
+
+## ✨ Features
+
+- 🔍 Search by city name
+- 🌡️ Displays current temperature
+- 💧 Shows humidity and wind speed
+- 🌇 Clean, modern UI with gradient background
+- 📱 Fully responsive design
+
+---
+
+## 🖼️ Preview
+
+![Weather App Screenshot](f6469abe-af30-4e09-821c-2684e76b5bc0.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (with Flexbox and gradients)
+- **JavaScript** (DOM manipulation, Fetch API)
+- **Netlify** (for deployment)
+
+---
+
+## 🚀 Getting Started Locally
+
+```bash
+git clone https://github.com/SambaGithu/Live-Weather-App.git
+cd Live-Weather-App
+# Open index.html in your browser
